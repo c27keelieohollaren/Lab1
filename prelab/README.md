@@ -5,6 +5,7 @@
 ### Truth Table
 
 Insert your truth table here
+
 | Month | A | B | C | D | Y |
 |-------|---|---|---|---|---|
 |       | 0 | 0 | 0 | 0 | x |
@@ -20,6 +21,9 @@ Insert your truth table here
 | Oct   | 1 | 0 | 1 | 0 | 1 |
 | Nov   | 1 | 0 | 1 | 1 | 0 |
 | Dec   | 1 | 1 | 0 | 0 | 1 |
+|       | 1 | 1 | 0 | 1 | x |
+|       | 1 | 1 | 1 | 0 | x |
+|       | 1 | 1 | 1 | 1 | x |
 
 ### Boolean Equation
 
